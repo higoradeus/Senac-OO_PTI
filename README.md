@@ -17,11 +17,14 @@ Victor de Almeida Souto Maior;
 # ⭐ Descrição ⭐
 Sistema para cadastro de diferentes tipos de usuário de uma instituição de ensino.
 
+
 #  :open_file_folder: Diagrama de Casos de Uso :open_file_folder:
 <img src='assets/diagramaCasoUso-1.png'>
 
+
 # :open_file_folder: Diagrama de Classes :open_file_folder:
 <img src='assets/DiagramaClasse.png'>
+
 
 # ⚙️ Linguagens Utilizadas: ⚙️
 HTML, CSS3, JavaScript.
