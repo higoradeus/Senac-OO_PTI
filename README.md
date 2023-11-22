@@ -1,7 +1,9 @@
 # Senac-OO_PTI
+
 # Senac - Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos.
 
-# 👨‍💻 Alunos Integrantes: 👨‍💻 
+# 👨‍💻 Alunos Integrantes: 👨‍💻
+
 [Alexandre Bertamoni Basso](https://github.com/AlexandreBasso);
 
 [Alexandre Conte](https://github.com/AlexandreConte);
@@ -15,7 +17,21 @@
 Victor de Almeida Souto Maior;
 
 # ⭐ Descrição ⭐
-Commit dos arquivos para desenvolvimento da Página Web.
+
+Sistema para cadastro de diferentes tipos de usuário de uma instituição de ensino.
+
+# :open_file_folder: Diagrama de Casos de Uso :open_file_folder:
+
+<div align = center>
+    <img src="/assets/diagramaCasoUso-1.png
+</div>
+
+# :open_file_folder: Diagrama de Classes :open_file_folder:
+
+<div align = center>
+    <img src="/assets/DiagramaClasse.png
+</div>
 
 # ⚙️ Linguagens Utilizadas: ⚙️
+
 HTML, CSS3, JavaScript.
