@@ -1,22 +1,21 @@
 # Senac-OO_PTI
-# Senac - Projeto Integrador: Desenvolvimento de Sistemas Orientado Objeto.
+# Senac - Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos.
 
-# Integrantes: 
+# 👨‍💻 Integrantes: 👨‍💻 
+[Alexandre Bertamoni Basso](https://github.com/AlexandreBasso);
 
-Alexandre Bertamoni Basso https://github.com/AlexandreBasso;
+[Alexandre Conte](https://github.com/AlexandreConte);
 
-Alexandre Conte https://github.com/AlexandreConte;
+[Caio Philippo da Fonseca Gonçalves de Oliveira](https://github.com/PhilippoFGO);
 
-Caio Philippo da Fonseca Gonçalves de Oliveira https://github.com/PhilippoFGO;
+[Higor Augusto de Deus](https://github.com/higoradeus);
 
-Higor Augusto de Deus https://github.com/higoradeus;
-
-Rebeca da Silva Azevedo https://github.com/rebecaaaa;
+[Rebeca da Silva Azevedo](https://github.com/rebecaaaa);
 
 Victor de Almeida Souto Maior;
 
+# ⭐ Descrição ⭐
+Commit dos arquivos para desenvolvimento da Página Web.
 
-# Commit dos arquivos para desenvolvimento da Página Web.
-# Línguagens Utilizadas: 
-
+# ⚙️ Linguagens Utilizadas: ⚙️
 HTML, CSS3, JavaScript.
