@@ -1,7 +1,7 @@
 # Senac-OO_PTI
 # Senac - Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos.
 
-# 👨‍💻 Integrantes: 👨‍💻 
+# 👨‍💻 Alunos Integrantes: 👨‍💻 
 [Alexandre Bertamoni Basso](https://github.com/AlexandreBasso);
 
 [Alexandre Conte](https://github.com/AlexandreConte);
